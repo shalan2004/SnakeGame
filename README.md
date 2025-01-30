@@ -9,8 +9,8 @@ Team Members: Abdulrahman Shalan, Omar Kamal and Noura Elsaey
 
 # Repository Contents:
 
-README.md: Overview and details about the project.
+1. README.md: Overview and details about the project.
 
-Presentation.pdf: The project presentation.
+2. Presentation.pdf: The project presentation.
 
-SnakeGame.asm: The Assembly code for the game.
+3. SnakeGame.asm: The Assembly code for the game.
