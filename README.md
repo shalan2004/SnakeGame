@@ -7,7 +7,7 @@ This project was completed as part of the Assembly Language course during my 3rd
 Supervised by: Dr. Sara Elmetwally and Eng. Amany Sherif
 Team Members: Abdulrahman Shalan, Omar Kamal and Noura Elsaey
 
-Repository Contents:
+# Repository Contents:
 
 README.md: Overview and details about the project.
 
